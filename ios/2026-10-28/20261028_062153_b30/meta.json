@@ -1,0 +1,14 @@
+{
+  "platform": "ios",
+  "runId": "20261028_062153_b30",
+  "date": "2026-10-28",
+  "createdAt": "2026-10-28T06:21:53.055214Z",
+  "total": 1,
+  "failed": 0,
+  "device": "iPhone 18 Pro",
+  "os": "iOS Simulator 27.0",
+  "branch": "staging",
+  "commit": "55e9fe8344a88e5e6981e41c0cb8c2581550e6ed",
+  "workflow": "Patrol UI Tests",
+  "buildNumber": "30"
+}
